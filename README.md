@@ -1,4 +1,4 @@
-# My Github Followers
+# My Github Unfollowers
 
 A simple script to track my github followers and to know who unfollowed me.
 
